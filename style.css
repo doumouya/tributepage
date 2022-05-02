@@ -16,10 +16,15 @@ main {
 
 #quote-block {
     text-align: center;
+    font-weight: 900;
+    padding: 20px;
+    border-radius: 4px;
 }
 
 #quote-diop {
     font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
 }
 
 #quote-reference {
@@ -27,11 +32,12 @@ main {
 }
 
 #img-div {
-    width: 95%;
+    width: 96%;
     margin: auto;
     background-color: white;
     text-align: center;
     padding: 1%;
+    border-radius: 4px;
 }
 
 #image {
@@ -43,13 +49,26 @@ main {
 }
 
 #tribute-info {
-    width: 80%;
+    width: 94%;
     margin: auto;
+    font-weight: 375;
+    background-color: white;
+    padding: 2%;
 }
 
 h2 {
     text-align: center;
-    margin: 10%;
+    margin: 8%;
+    background-color: lightgrey;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#more-infos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 100;
+    text-align: center;
 }
 
 .event date {
